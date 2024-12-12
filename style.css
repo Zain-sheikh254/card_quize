@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.Card {
+
+    width: 275px;
+    height: 385px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    margin: auto;
+    margin-top: 50px;
+
+
+}
+
+.img {
+    width: 275px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+
+}
+
+.content {
+    display: inline-block;
+    margin: 10px 15px;
+    padding: 0px 5px;
+    /* background-color: blueviolet; */
+    background: linear-gradient(to right, rgb(57, 82, 225), rgb(29, 43, 147));
+    border-radius: 25px;
+    color: white;
+}
+
+.para {
+    margin-left: 15px;
+}
+
+.p2 {
+    font-size: small;
+}
+
+.img2 {
+
+    width: 40px;
+
+    margin-bottom: 20px;
+
+    clip-path: circle();
+    float: left;
+    /* display: inline-block; */
+}
+
+.nameHd {
+    margin-top: 25px;
+    /* margin-left: 10px; */
+    padding-left: 50px;
+}
